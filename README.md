@@ -6,7 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [padakantisrikar4@gmail.com](mailto:padakantisrikar4@gmail.com)
-* ⚡  Foodie who wants to eat self-grown food. Might do that once out of Tech.
+* ⚡   Software engineer with a strong foundation in C++, DSA, OOPs, computer fundamentals and problem solving abilities.
+* 💻  Tech-driven professional with experience in streamlining business processes and enhance system efficiency.
 
 ### Skills
 
